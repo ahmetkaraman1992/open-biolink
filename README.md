@@ -35,7 +35,7 @@ npm run dev
 
 ## Configuration
 
-Copy `config.example.json` and update your profile, links, theme, and social accounts.
+Copy `config.example.json` and update your profile, links, theme, and social accounts. 
 
 ## Roadmap
 
