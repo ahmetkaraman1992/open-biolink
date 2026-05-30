@@ -1,0 +1,23 @@
+{
+  "name": "open-biolink",
+  "version": "0.1.0",
+  "description": "Open-source self-hostable bio link page template for creators, freelancers, indie hackers, and small businesses.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "bio-link",
+    "link-in-bio",
+    "self-hosted",
+    "template",
+    "open-source",
+    "creator-tools"
+  ],
+  "author": "Ahmet Karaman",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
